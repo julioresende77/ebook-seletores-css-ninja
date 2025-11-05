@@ -1,6 +1,6 @@
 # 🥷 Ebook — **Seletores CSS Ninja**
 
-![Capa do Ebook](./Capa-ebook.png)
+![Capa do Ebook](./capa-ebook.png)
 
 ## 🧭 Sobre o Ebook
 
