@@ -76,3 +76,41 @@ O ebook foi desenvolvido como um experimento didático e criativo, unindo **cont
     ├── introducao.md
     ├── capitulo1.md
     └── agradecimentos.md
+```
+
+## 👤 Autor
+
+Julio Resende
+Desenvolvedor Web Jr • Fundador da RESTECH
+Apaixonado por tecnologia, design e aprendizado contínuo, Julio tem como missão criar materiais acessíveis que facilitem o estudo de programação para iniciantes.
+
+## 🧩 Objetivo do Projeto
+
+Este projeto busca contribuir com a comunidade de desenvolvedores iniciantes, oferecendo um material educativo gratuito sobre CSS3 — uma das linguagens essenciais para o desenvolvimento web moderno.
+
+O propósito é tornar o aprendizado mais prático, acessível e motivador para quem está dando os primeiros passos no frontend.
+
+## 🧠 Aviso Importante
+
+⚠️ Este ebook foi gerado parcialmente com auxílio de IA e revisado por humano.
+O conteúdo tem fins didáticos e de demonstração, podendo conter pequenas variações ou simplificações conceituais.
+
+## 🔗 Links
+
+📄 Download do Ebook (PDF): Clique aqui para baixar
+
+💻 Repositório no GitHub: github.com/julioresende77/ebook-seletores-css-ninja
+
+## 📜 Licença
+
+Este projeto está sob a Licença MIT — você pode utilizá-lo, modificar e compartilhar livremente, desde que mantenha os créditos ao autor original.
+
+## 💬 Contato e Redes
+
+🌐 Site / Portfólio: RESTECH
+
+💼 LinkedIn: Julio Resende
+
+📸 Instagram: @julioresende.dev
+
+💻 GitHub: @julioresende77
