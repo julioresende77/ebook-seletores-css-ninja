@@ -68,21 +68,17 @@ O ebook foi desenvolvido como um experimento didático e criativo, unindo **cont
 ## 📂 Estrutura do Repositório
 
 ```bash
-📦 ebook-seletores-css-ninja/
-├── 📘 ebook/
-│   └── ebook-seletores-css-ninja.pdf
+└── ebook-seletores-css-ninja.pdf
 ├── 📄 README.md
-└── 📁 src/
-    ├── introducao.md
-    ├── capitulo1.md
-    └── agradecimentos.md
+└── 📔 capa-ebook.png
+└── 📕 ebook-seletores-css-ninja.pdf    
 ```
 
 ## 👤 Autor
 
 Julio Resende
 Desenvolvedor Web Jr • Fundador da RESTECH
-Apaixonado por tecnologia, design e aprendizado contínuo, Julio tem como missão criar materiais acessíveis que facilitem o estudo de programação para iniciantes.
+Apaixonado por tecnologia, desenvolvimento de sistemas e aprendizado contínuo, Julio tem como missão criar materiais acessíveis que facilitem a vida e os estudos de programação para iniciantes.
 
 ## 🧩 Objetivo do Projeto
 
@@ -97,9 +93,9 @@ O conteúdo tem fins didáticos e de demonstração, podendo conter pequenas var
 
 ## 🔗 Links
 
-📄 Download do Ebook (PDF): Clique aqui para baixar
+📄 Download do Ebook (PDF): ![Clique aqui para baixar](./ebook-seletores-css-ninja.pdf)
 
-💻 Repositório no GitHub: github.com/julioresende77/ebook-seletores-css-ninja
+💻 ![Repositório no GitHub:](github.com/julioresende77/ebook-seletores-css-ninja)
 
 ## 📜 Licença
 
@@ -107,10 +103,10 @@ Este projeto está sob a Licença MIT — você pode utilizá-lo, modificar e co
 
 ## 💬 Contato e Redes
 
-🌐 Site / Portfólio: RESTECH
+🌐 ![Site / Portfólio:](https://portfolio-julioresende.vercel.app/)
 
-💼 LinkedIn: Julio Resende
+💼 ![LinkedIn:](https://www.linkedin.com/in/resendedev/)
 
-📸 Instagram: @julioresende.dev
+📸 ![Instagram:](https://www.instagram.com/resendedev/)
 
-💻 GitHub: @julioresende77
+💻 ![GitHub:](https://github.com/julioresende77)
