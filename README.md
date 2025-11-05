@@ -93,9 +93,9 @@ O conteúdo tem fins didáticos e de demonstração, podendo conter pequenas var
 
 ## 🔗 Links
 
-📄 Download do Ebook (PDF): ![Clique aqui para baixar](./ebook-seletores-css-ninja.pdf)
+📄 Download do Ebook (PDF):[Clique aqui para baixar](./ebook-seletores-css-ninja.pdf)
 
-💻 Repositório no GitHub: ![](github.com/julioresende77/ebook-seletores-css-ninja)
+💻 [Repositório no GitHub:](github.com/julioresende77/ebook-seletores-css-ninja)
 
 ## 📜 Licença
 
@@ -103,10 +103,10 @@ Este projeto está sob a Licença MIT — você pode utilizá-lo, modificar e co
 
 ## 💬 Contato e Redes
 
-🌐 Site / Portfólio: ![](https://portfolio-julioresende.vercel.app/)
+🌐 [Site / Portfólio:](https://portfolio-julioresende.vercel.app/)
 
-💼 LinkedIn: ![](https://www.linkedin.com/in/resendedev/)
+💼 [LinkedIn:](https://www.linkedin.com/in/resendedev/)
 
-📸 Instagram: ![](https://www.instagram.com/resendedev/)
+📸 [Instagram:](https://www.instagram.com/resendedev/)
 
-💻 GitHub: ![](https://github.com/julioresende77)
+💻 [GitHub:](https://github.com/julioresende77)
